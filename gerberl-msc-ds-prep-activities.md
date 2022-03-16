@@ -1,6 +1,3 @@
-## Suggestions of Preparatory Resources and Activities for MSc Data Science
-
-
 Hi all,
 
 It is great to know that you will be joining our MSc Data Science course in September. Below are some suggestions of resources and activities that you could carry out in preparation for the course. Of course, do tailor those to your academic background and work experience.
@@ -13,7 +10,7 @@ Luciano
 Last updated on 16-Mar-22
 
 
-## TL;DR
+# TL;DR
 
 * Gain familiarisation with programming with Python.
 
@@ -22,10 +19,10 @@ Last updated on 16-Mar-22
 * Review concepts in secondary school algebra such as essential arithmetic/algebra, functions, graphs, logarithms and exponentials, and some introductory calculus and linear algebra as well.
 
 
-### Longer Version
+# Longer Version
 
 
-#### Python
+## Python
 
 You might want to start with gaining some experience with practical Python for Data Science. Some examples of suitable resources here are:
 
@@ -46,7 +43,7 @@ In addition to the above, you might want to browse/go through selected sections 
 (DataCamp, I believe, offers a free trial to new users. If you enjoy it and need to access it after the trial period has expired, please let me know and I will try to obtain a free student account).
 
 
-#### Data Science Production Environment
+## Data Science Production Environment
 
 As environment for doing the practical work, I would recommend starting with Google Colab (https://colab.research.google.com/), which is based on Jupyter notebooks. Some useful links are:
 
@@ -60,7 +57,7 @@ As environment for doing the practical work, I would recommend starting with Goo
 Later on, you might find useful to have a local Python installation with **Jupyter Lab** on their machine. My suggestion is to go for the Anaconda distribution (https://www.anaconda.com/distribution/). Also, a good programming text editor/environment (e.g., Sublime Text, Visual Code Studio) alongside is always helpful.
 
 
-#### Mathematics Refresher
+## Mathematics Refresher
 
 You may also want to take a refresher on pre-calculus (e.g., algebra, geometry, logarithms, exponentials, functions). This would be helpful with most units, but particularly for the machine learning and deep learning units. The excellent material of the Khan Academy is more than sufficient for this purpose, such as:
 
@@ -77,7 +74,7 @@ A refresher/quick introduction to differential/integral calculus and linear alge
 
 
 
-#### Introductory Probability and Statistics
+## Introductory Probability and Statistics
 
 We have a unit dedicated to essential statistics and probability, but some recommendations that I usually have in preparation for the course are:
 
@@ -95,14 +92,14 @@ And a useful primer on Data Visualisation is:
 
 
 
-#### Looking Ahead
+## Looking Ahead
 
 Time-permitting, if you are keen, you could preview some practical machine learning with Python as well. The book Introduction to Machine Learning with Python (http://shop.oreilly.com/product/0636920030515.do) is quite suitable - the author's (Andreas Müller) lectures are more up-to-date with respect to the functionality of the Python packages involved: https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/. Also, there is the DataCamp Introduction to Supervised Learning, among others (https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn).
 
 
 
 
-## Licensing
+# Licensing
 
 TL;DR: "This is an open-access resource distributed under the terms of the Creative Commons Attribution-NonCommercial license which permits use, distribution, and reproduction in any medium so long as the resultant use is not for commercial advantage and provided the original work is properly cited."
 
