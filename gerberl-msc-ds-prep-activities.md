@@ -44,31 +44,31 @@ In addition to the above, you might want to browse/go through selected sections 
 
 ## Data Science Production Environment
 
-As environment for doing the practical work, I would recommend starting with Google Colab (https://colab.research.google.com/), which is based on Jupyter notebooks. Some useful links are:
+As environment for doing the practical work, I would recommend starting with Google Colab (<https://colab.research.google.com/>), which is based on Jupyter notebooks. Some useful links are:
 
-* Introduction to Google Colab (https://youtu.be/inN8seMm7UI): just for gaining a feel of what notebooks look like and of the interactivity and exploratory programming aspects; please ignore the Deep Learning stuff at this stage.
+* [Introduction to Google Colab](https://youtu.be/inN8seMm7UI): just for gaining a feel of what notebooks look like and of the interactivity and exploratory programming aspects; please ignore the Deep Learning stuff at this stage.
 
-* Overview of Colab Features (https://colab.research.google.com/notebooks/basic_features_overview.ipynb).
+* [Overview of Colab Features](https://colab.research.google.com/notebooks/basic_features_overview.ipynb).
 
-* Markdown Guide (https://colab.research.google.com/notebooks/markdown_guide.ipynb).
+* [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb).
 
 
-Later on, you might find useful to have a local Python installation with **Jupyter Lab** on their machine. My suggestion is to go for the Anaconda distribution (https://www.anaconda.com/distribution/). Also, a good programming text editor/environment (e.g., Sublime Text, Visual Code Studio) alongside is always helpful.
+Later on, you might find useful to have a local Python installation with **Jupyter Lab** on their machine. My suggestion is to go for the [Anaconda distribution](https://www.anaconda.com/distribution/) (with [`mamba`](https://github.com/mamba-org/mamba). Also, a good programming text editor/environment (e.g., Sublime Text, Visual Code Studio) alongside is always helpful.
 
 
 ## Mathematics Refresher
 
 You may also want to take a refresher on pre-calculus (e.g., algebra, geometry, logarithms, exponentials, functions). This would be helpful with most units, but particularly for the machine learning and deep learning units. The excellent material of the Khan Academy is more than sufficient for this purpose, such as:
 
-* https://www.khanacademy.org/math/precalculus
+* <https://www.khanacademy.org/math/precalculus>
 
 A refresher/quick introduction to differential/integral calculus and linear algebra will prove handy as well. Some resources from Khan Academy and from the wonderful 3Blue1Brown that I can suggest are: 
 
-* https://www.khanacademy.org/math/differential-calculus
-* https://www.khanacademy.org/math/linear-algebra
-* https://www.khanacademy.org/math/integral-calculus
-* https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-* https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+* <https://www.khanacademy.org/math/differential-calculus>
+* <https://www.khanacademy.org/math/linear-algebra>
+* <https://www.khanacademy.org/math/integral-calculus>
+* <https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab>
+* <https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr>
 
 
 
@@ -81,7 +81,7 @@ We have a unit dedicated to essential statistics and probability, but some recom
     + [Statistics without Tears](https://www.penguin.co.uk/books/135/13568/statistics-without-tears/9780141987491.html)
     + [The Art of Statistics](https://www.penguin.co.uk/books/294/294857/the-art-of-statistics/9780241398630.html)
     
-* for a more extensive but still accessible coverage, one cannot go wrong with Khan Academy: https://www.khanacademy.org/math/statistics-probability
+* for a more extensive but still accessible coverage, one cannot go wrong with [Khan Academy](https://www.khanacademy.org/math/statistics-probability).
 
 
 
@@ -93,7 +93,7 @@ And a useful primer on Data Visualisation is:
 
 ## Looking Ahead
 
-Time-permitting, if you are keen, you could preview some practical machine learning with Python as well. The book Introduction to Machine Learning with Python (http://shop.oreilly.com/product/0636920030515.do) is quite suitable - the author's (Andreas Müller) lectures are more up-to-date with respect to the functionality of the Python packages involved: https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/. Also, there is the DataCamp Introduction to Supervised Learning, among others (https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn).
+Time-permitting, if you are keen, you could preview some practical machine learning with Python as well. The book [Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do) is quite suitable - the [author's (Andreas Müller) lectures](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) are more up-to-date with respect to the functionality of the Python packages involved. Also, there is the [DataCamp Introduction to Supervised Learning]((https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn), among others.
 
 
 
@@ -104,4 +104,4 @@ TL;DR: "This is an open-access resource distributed under the terms of the Creat
 
 [![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
 
-https://creativecommons.org/licenses/by-nc/4.0/
+<https://creativecommons.org/licenses/by-nc/4.0/>
