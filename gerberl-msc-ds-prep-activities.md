@@ -53,7 +53,7 @@ As environment for doing the practical work, I would recommend starting with Goo
 * [Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb).
 
 
-Later on, you might find useful to have a local Python installation with **Jupyter Lab** on their machine. My suggestion is to go for the [Anaconda distribution](https://www.anaconda.com/distribution/) (with [`mamba`](https://github.com/mamba-org/mamba). Also, a good programming text editor/environment (e.g., Sublime Text, Visual Code Studio) alongside is always helpful.
+Later on, you might find useful to have a local Python installation with **Jupyter Lab** on their machine. My suggestion is to go for the [Anaconda distribution](https://www.anaconda.com/distribution/) (with [mamba](https://github.com/mamba-org/mamba)). Also, a good programming text editor/environment (e.g., Sublime Text, Visual Code Studio) alongside is always helpful.
 
 
 ## Mathematics Refresher
