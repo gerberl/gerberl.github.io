@@ -93,7 +93,7 @@ And a useful primer on Data Visualisation is:
 
 ## Looking Ahead
 
-Time-permitting, if you are keen, you could preview some practical machine learning with Python as well. The book [Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do) is quite suitable - the [author's (Andreas Müller) lectures](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) are more up-to-date with respect to the functionality of the Python packages involved. Also, there is the [DataCamp Introduction to Supervised Learning]((https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn), among others.
+Time-permitting, if you are keen, you could preview some practical machine learning with Python as well. The book [Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do) is quite suitable - the [author's (Andreas Müller) lectures](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) are more up-to-date with respect to the functionality of the Python packages involved. Also, there is the [DataCamp Introduction to Supervised Learning](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn), among others.
 
 
 
