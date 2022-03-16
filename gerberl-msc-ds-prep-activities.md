@@ -27,12 +27,12 @@ Luciano
 You might want to start with gaining some experience with practical Python for Data Science. Some examples of suitable resources here are:
 
 * DataCamp's introductory Python for Data Science courses:
-    - https://learn.datacamp.com/courses/intro-to-python-for-data-science
-    - https://learn.datacamp.com/courses/introduction-to-data-science-in-python
+    - <https://learn.datacamp.com/courses/intro-to-python-for-data-science>
+    - <https://learn.datacamp.com/courses/introduction-to-data-science-in-python>
 
-* the Carpentry series (e.g., http://swcarpentry.github.io/python-novice-inflammation/).
+* the Carpentry series (e.g., <http://swcarpentry.github.io/python-novice-inflammation/>).
 
-* TL;DR? https://learnxinyminutes.com/docs/python/
+* TL;DR? <https://learnxinyminutes.com/docs/python/>
 
 
 In addition to the above, you might want to browse/go through selected sections of the recommended textbooks:
