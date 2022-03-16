@@ -37,10 +37,9 @@ You might want to start with gaining some experience with practical Python for D
 
 In addition to the above, you might want to browse/go through selected sections of the recommended textbooks:
 
-* A Whirlwind Tour of Python (https://jakevdp.github.io/WhirlwindTourOfPython/)
-* Python Data Science Handbook (https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-(DataCamp, I believe, offers a free trial to new users. If you enjoy it and need to access it after the trial period has expired, please let me know and I will try to obtain a free student account).
 
 
 ## Data Science Production Environment
