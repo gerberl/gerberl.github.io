@@ -4,10 +4,10 @@ It is great to know that you will be joining our MSc Data Science course in Sept
 
 I am quite conscious that the material below is probably worth a couple of years of full-time study. The way that I see students approaching is mixing-and-matching, focusing on a few desired topics and sections, favouring gaining intuition rather than going deep into the technical details. I hope it makes sense, and that this is useful.
 
-Best wishes,
+Best wishes,  
 Luciano
 
-Last updated on 16-Mar-22
+*Last updated on 16-Mar-22*
 
 
 # TL;DR
