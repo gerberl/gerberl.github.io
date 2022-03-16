@@ -99,18 +99,11 @@ Time-permitting, if you are keen, you could preview some practical machine learn
 
 
 
-That is all that I can think of for the moment! It is worth mentioning that 
 
-Best wishes,
-Luciano
-
-
-<!-- ## Licensing
+## Licensing
 
 TL;DR: "This is an open-access resource distributed under the terms of the Creative Commons Attribution-NonCommercial license which permits use, distribution, and reproduction in any medium so long as the resultant use is not for commercial advantage and provided the original work is properly cited."
 
 [![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
 
-https://creativecommons.org/licenses/by-nc/4.0/ -->
-
-<!-- - [Making Sense of Data](https://mmulibrary.summon.serialssolutions.com/2.0.0/link/0/eLvHCXMwbV3JTsMwEB0VuARVAgKoLYvyAw1pYruxVECAUopQb-FcJbV9QSlSlwMXvp3xVhXUo-dgjSx7nmd7A5ClcdL_ZxMGTFBFEQ_QJHMq8NoMOaUpqxIuESN1grd8yj9K8j4hry0ofGuMyRi6MsXY28ptLrVpNq7SMrZdAI_CfmyHmsScHKArlmg-_Z_ieSfuwhDlMjM0CL2bFAGQOuonvyaIM7j1Ds6MT-FI6uaDM2jJRQgnfuRC5F5gCMfTLc3qKoRAfxUt0_I53I-aavn5MDXjpUZ3ZhFZ2Qp9VflX9KUiXRzqhW8X0BsX5cukjyrNXExnhmrmjOfZJbQrXQm_WJuOOdGBqBaUqjojc0YVSeeDHF-YQHyq80oorkQXwj079fZKryDQ52FDDtdwuF5u5A0Eja_c-r41h_sL0CSKWQ) -->
+https://creativecommons.org/licenses/by-nc/4.0/
